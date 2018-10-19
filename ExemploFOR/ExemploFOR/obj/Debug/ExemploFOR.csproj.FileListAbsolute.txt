@@ -1,0 +1,7 @@
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploFOR\ExemploFOR\bin\Debug\ExemploFOR.exe.config
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploFOR\ExemploFOR\bin\Debug\ExemploFOR.exe
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploFOR\ExemploFOR\bin\Debug\ExemploFOR.pdb
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploFOR\ExemploFOR\obj\Debug\ExemploFOR.csprojAssemblyReference.cache
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploFOR\ExemploFOR\obj\Debug\ExemploFOR.csproj.CoreCompileInputs.cache
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploFOR\ExemploFOR\obj\Debug\ExemploFOR.exe
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploFOR\ExemploFOR\obj\Debug\ExemploFOR.pdb

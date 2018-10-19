@@ -1,0 +1,7 @@
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploIF\ExemploIF\bin\Debug\ConsoleApp1.exe.config
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploIF\ExemploIF\bin\Debug\ConsoleApp1.exe
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploIF\ExemploIF\bin\Debug\ConsoleApp1.pdb
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploIF\ExemploIF\obj\Debug\ExemploIF.csprojAssemblyReference.cache
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploIF\ExemploIF\obj\Debug\ExemploIF.csproj.CoreCompileInputs.cache
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploIF\ExemploIF\obj\Debug\ConsoleApp1.exe
+C:\Users\c1401479\Documents\TOTVS Hotéis\Introdução a programação\ExemploIF\ExemploIF\obj\Debug\ConsoleApp1.pdb
